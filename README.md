@@ -51,7 +51,7 @@
 * [dc:title](UTC_QDC_Reports/unique_dc:title.md)
 * [dc:type](UTC_QDC_Reports/unique_dc:type.md)
 * [dc:creator](UTC_QDC_Reports/unique_dc:creator.md)
-* [dc:contributor](UTC_QDC_Reports/unique_dc:contributor.md)
+* [dc:contributor](UTC_QDC_Reports/unique_dc:contibutor.md)
 * [dcterms:isPartOf](UTC_QDC_Reports/unique_dcterms:isPartOf.md)
 * [dcterms:spatial](UTC_QDC_Reports/unique_dcterms:spatial.md)
 * [dcterms:created](UTC_QDC_Reports/unique_dcterms:created.md)
@@ -59,5 +59,5 @@
 * [dcterms:rightsHolder](UTC_QDC_Reports/unique_dcterms:rightsHolder.md)
 * [dcterms:license](UTC_QDC_Reports/unique_dcterms:license.md)
 * [dcterms:alternative](UTC_QDC_Reports/unique_dcterms:alternative.md)
-* [dcterms:modified](UTC_QDC_Reports/unique_dcterms:modified)
+* [dcterms:modified](UTC_QDC_Reports/unique_dcterms:modified.md)
 
